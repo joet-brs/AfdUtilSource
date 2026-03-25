@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[ftrans.dsp]
+SCC_Aux_Path = "C:\VSS"
+SCC_Project_Name = "$/ING/AfdUtilSource/FTrans", GWSBAAAA
+
+[ftrans.vcproj]
+SCC_Aux_Path = "C:\VSS"
+SCC_Project_Name = "$/ING/AfdUtilSource/FTrans", GWSBAAAA

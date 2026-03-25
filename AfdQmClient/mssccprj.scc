@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[AfdQmClient.dsp]
+SCC_Aux_Path = "C:\VSS"
+SCC_Project_Name = "$/ING/AfdUtilSource/AfdQmClient", XTAAAAAA
+
+[AfdQmClient.vcproj]
+SCC_Aux_Path = "C:\VSS"
+SCC_Project_Name = "$/ING/AfdUtilSource/AfdQmClient", XTAAAAAA
