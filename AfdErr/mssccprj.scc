@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[AfdErr.dsp]
+SCC_Aux_Path = "C:\VSS"
+SCC_Project_Name = "$/ING/AfdUtilSource/AfdErr", TTAAAAAA
+
+[AfdErr.vcproj]
+SCC_Aux_Path = "C:\VSS"
+SCC_Project_Name = "$/ING/AfdUtilSource/AfdErr", TTAAAAAA

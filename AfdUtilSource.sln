@@ -1,0 +1,168 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AfdAdminMsg", "AfdAdminMsg\AfdAdminMsg.vcxproj", "{BA1B66A3-DF68-4EED-9BD5-A54CD5BEAE4A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AfdAdminUtil", "AfdAdminUtil\AfdAdminUtil.vcxproj", "{0AF2C785-971B-418D-9CB6-01565C8F5DF1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AfdCommHoldUtil", "AfdCommHoldUtil\AfdCommHoldUtil.vcxproj", "{B5F92ADB-7DED-4D98-B341-1F6843C795EA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AfdCommMonitor", "AfdCommMonitor\AfdCommMonitor.vcxproj", "{08BA1A70-A775-4DAB-B9D6-6D3ED7BB231A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AfdConfig", "AfdConfig\AfdConfig.vcxproj", "{66FFA7FA-C679-47F6-8E16-18E825B92DF9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AfdErr", "AfdErr\AfdErr.vcxproj", "{9EE04E9C-885F-4043-A100-884E8271A2D5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AfdMisc", "AfdMisc\AfdMisc.vcxproj", "{69D08464-F9EF-4809-8F9B-7936BEAE9A7B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AfdPcCommCmds", "AfdPcCommCmds\AfdPcCommCmds.vcxproj", "{16B7933E-D91A-435E-8E10-C2E0E05FD89F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AfdQMMsg", "AfdQMMsg\AfdQMMsg.vcxproj", "{DE64DA2F-2BDC-4C43-A134-7F2E39260617}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AfdQmClient", "AfdQmClient\AfdQmClient.vcxproj", "{ACCF7A7C-D250-4266-8945-C926889FFBD3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AfdQueueManager", "AfdQueueManager\AfdQueueManager.vcxproj", "{99785296-5B11-47EF-BED7-437B58197E36}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AfdRegConfig", "AfdRegConfig\AfdRegConfig.vcxproj", "{A14878C6-8BDC-426E-953C-057526FA66EA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AfdScmInterface", "AfdScmInterface\AfdScmInterface.vcxproj", "{DF5EACE5-839F-4841-9F02-EC4CEF361ADE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AfdUtilSource", "AfdUtilSource\AfdUtilSource.vcxproj", "{4966A304-FF35-4C29-B8FE-6C42219784FA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestQM", "TestQM\TestQM.vcxproj", "{D5CC5D2E-5D9F-402E-9CC9-F4EBF029082E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tracelib", "Tracelib\Tracelib.vcxproj", "{71A53FA0-FA65-4F9B-8A3D-6FF50FCCE095}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ftrans", "FTrans\ftrans.vcxproj", "{4899E5BF-8870-4DAE-8071-EC4D8D2612A2}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 18
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AfdAdminMsg\\AfdAdminMsg.vcxproj
+		SccProjectName1 = \u0022$/ING/AfdUtilSource/AfdAdminMsg\u0022,\u0020MTAAAAAA
+		SccLocalPath1 = AfdAdminMsg
+		SccProjectUniqueName2 = AfdAdminUtil\\AfdAdminUtil.vcxproj
+		SccProjectName2 = \u0022$/ING/AfdUtilSource/AfdAdminUtil\u0022,\u0020OTAAAAAA
+		SccLocalPath2 = AfdAdminUtil
+		SccProjectUniqueName3 = AfdCommHoldUtil\\AfdCommHoldUtil.vcxproj
+		SccProjectName3 = \u0022$/ING/AfdUtilSource/AfdCommHoldUtil\u0022,\u0020QTAAAAAA
+		SccLocalPath3 = AfdCommHoldUtil
+		SccProjectUniqueName4 = AfdCommMonitor\\AfdCommMonitor.vcxproj
+		SccProjectName4 = \u0022$/ING/AfdUtilSource/AfdCommMonitor\u0022,\u0020RTAAAAAA
+		SccLocalPath4 = AfdCommMonitor
+		SccProjectUniqueName5 = AfdConfig\\AfdConfig.vcxproj
+		SccProjectName5 = \u0022$/ING/AfdUtilSource/AfdConfig\u0022,\u0020STAAAAAA
+		SccLocalPath5 = AfdConfig
+		SccProjectUniqueName6 = AfdErr\\AfdErr.vcxproj
+		SccProjectName6 = \u0022$/ING/AfdUtilSource/AfdErr\u0022,\u0020BWDAAAAA
+		SccLocalPath6 = AfdErr
+		SccProjectUniqueName7 = AfdPcCommCmds\\AfdPcCommCmds.vcxproj
+		SccProjectName7 = \u0022$/ING/AfdUtilSource/AfdPcCommCmds\u0022,\u0020VTAAAAAA
+		SccLocalPath7 = AfdPcCommCmds
+		SccProjectUniqueName8 = AfdQMMsg\\AfdQMMsg.vcxproj
+		SccProjectName8 = \u0022$/ING/AfdUtilSource/AfdQMMsg\u0022,\u0020YTAAAAAA
+		SccLocalPath8 = AfdQMMsg
+		SccProjectUniqueName9 = AfdQmClient\\AfdQmClient.vcxproj
+		SccLocalPath9 = .
+		SccProjectFilePathRelativizedFromConnection9 = AfdQmClient\\
+		SccProjectUniqueName10 = AfdQueueManager\\AfdQueueManager.vcxproj
+		SccProjectName10 = \u0022$/ING/AfdUtilSource/AfdQueueManager\u0022,\u0020ZTAAAAAA
+		SccLocalPath10 = AfdQueueManager
+		SccProjectUniqueName11 = AfdRegConfig\\AfdRegConfig.vcxproj
+		SccProjectName11 = \u0022$/ING/AfdUtilSource/AfdRegConfig\u0022,\u0020AUAAAAAA
+		SccLocalPath11 = AfdRegConfig
+		SccProjectUniqueName12 = AfdScmInterface\\AfdScmInterface.vcxproj
+		SccProjectName12 = \u0022$/ING\u0022,\u0020FOAAAAAA
+		SccLocalPath12 = ..
+		SccProjectFilePathRelativizedFromConnection12 = AfdUtilSource\\AfdScmInterface\\
+		SccProjectUniqueName13 = AfdUtilSource\\AfdUtilSource.vcxproj
+		SccProjectName13 = \u0022$/ING/AfdUtilSource/AfdUtilSource\u0022,\u0020CUAAAAAA
+		SccLocalPath13 = AfdUtilSource
+		SccProjectUniqueName14 = TestQM\\TestQM.vcxproj
+		SccProjectName14 = \u0022$/ING/AfdUtilSource/TestQM\u0022,\u0020EUAAAAAA
+		SccLocalPath14 = TestQM
+		SccProjectUniqueName15 = Tracelib\\Tracelib.vcxproj
+		SccProjectName15 = \u0022$/ING/AfdUtilSource/Tracelib\u0022,\u0020FUAAAAAA
+		SccLocalPath15 = Tracelib
+		SccProjectUniqueName16 = FTrans\\ftrans.vcxproj
+		SccProjectName16 = \u0022$/ING/AfdUtilSource/FTrans\u0022,\u0020GWSBAAAA
+		SccLocalPath16 = FTrans
+		SccProjectUniqueName17 = AfdMisc\\AfdMisc.vcxproj
+		SccLocalPath17 = .
+		SccProjectFilePathRelativizedFromConnection17 = AfdMisc\\
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA1B66A3-DF68-4EED-9BD5-A54CD5BEAE4A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BA1B66A3-DF68-4EED-9BD5-A54CD5BEAE4A}.Release|Win32.ActiveCfg = Release|Win32
+		{0AF2C785-971B-418D-9CB6-01565C8F5DF1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0AF2C785-971B-418D-9CB6-01565C8F5DF1}.Debug|Win32.Build.0 = Debug|Win32
+		{0AF2C785-971B-418D-9CB6-01565C8F5DF1}.Release|Win32.ActiveCfg = Release|Win32
+		{0AF2C785-971B-418D-9CB6-01565C8F5DF1}.Release|Win32.Build.0 = Release|Win32
+		{B5F92ADB-7DED-4D98-B341-1F6843C795EA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B5F92ADB-7DED-4D98-B341-1F6843C795EA}.Debug|Win32.Build.0 = Debug|Win32
+		{B5F92ADB-7DED-4D98-B341-1F6843C795EA}.Release|Win32.ActiveCfg = Release|Win32
+		{B5F92ADB-7DED-4D98-B341-1F6843C795EA}.Release|Win32.Build.0 = Release|Win32
+		{08BA1A70-A775-4DAB-B9D6-6D3ED7BB231A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{08BA1A70-A775-4DAB-B9D6-6D3ED7BB231A}.Debug|Win32.Build.0 = Debug|Win32
+		{08BA1A70-A775-4DAB-B9D6-6D3ED7BB231A}.Release|Win32.ActiveCfg = Release|Win32
+		{08BA1A70-A775-4DAB-B9D6-6D3ED7BB231A}.Release|Win32.Build.0 = Release|Win32
+		{66FFA7FA-C679-47F6-8E16-18E825B92DF9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{66FFA7FA-C679-47F6-8E16-18E825B92DF9}.Debug|Win32.Build.0 = Debug|Win32
+		{66FFA7FA-C679-47F6-8E16-18E825B92DF9}.Release|Win32.ActiveCfg = Release|Win32
+		{66FFA7FA-C679-47F6-8E16-18E825B92DF9}.Release|Win32.Build.0 = Release|Win32
+		{9EE04E9C-885F-4043-A100-884E8271A2D5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9EE04E9C-885F-4043-A100-884E8271A2D5}.Debug|Win32.Build.0 = Debug|Win32
+		{9EE04E9C-885F-4043-A100-884E8271A2D5}.Release|Win32.ActiveCfg = Release|Win32
+		{9EE04E9C-885F-4043-A100-884E8271A2D5}.Release|Win32.Build.0 = Release|Win32
+		{69D08464-F9EF-4809-8F9B-7936BEAE9A7B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{69D08464-F9EF-4809-8F9B-7936BEAE9A7B}.Debug|Win32.Build.0 = Debug|Win32
+		{69D08464-F9EF-4809-8F9B-7936BEAE9A7B}.Release|Win32.ActiveCfg = Release|Win32
+		{69D08464-F9EF-4809-8F9B-7936BEAE9A7B}.Release|Win32.Build.0 = Release|Win32
+		{16B7933E-D91A-435E-8E10-C2E0E05FD89F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{16B7933E-D91A-435E-8E10-C2E0E05FD89F}.Debug|Win32.Build.0 = Debug|Win32
+		{16B7933E-D91A-435E-8E10-C2E0E05FD89F}.Release|Win32.ActiveCfg = Release|Win32
+		{16B7933E-D91A-435E-8E10-C2E0E05FD89F}.Release|Win32.Build.0 = Release|Win32
+		{DE64DA2F-2BDC-4C43-A134-7F2E39260617}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DE64DA2F-2BDC-4C43-A134-7F2E39260617}.Debug|Win32.Build.0 = Debug|Win32
+		{DE64DA2F-2BDC-4C43-A134-7F2E39260617}.Release|Win32.ActiveCfg = Release|Win32
+		{DE64DA2F-2BDC-4C43-A134-7F2E39260617}.Release|Win32.Build.0 = Release|Win32
+		{ACCF7A7C-D250-4266-8945-C926889FFBD3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ACCF7A7C-D250-4266-8945-C926889FFBD3}.Debug|Win32.Build.0 = Debug|Win32
+		{ACCF7A7C-D250-4266-8945-C926889FFBD3}.Release|Win32.ActiveCfg = Release|Win32
+		{ACCF7A7C-D250-4266-8945-C926889FFBD3}.Release|Win32.Build.0 = Release|Win32
+		{99785296-5B11-47EF-BED7-437B58197E36}.Debug|Win32.ActiveCfg = Debug|Win32
+		{99785296-5B11-47EF-BED7-437B58197E36}.Debug|Win32.Build.0 = Debug|Win32
+		{99785296-5B11-47EF-BED7-437B58197E36}.Release|Win32.ActiveCfg = Release|Win32
+		{99785296-5B11-47EF-BED7-437B58197E36}.Release|Win32.Build.0 = Release|Win32
+		{A14878C6-8BDC-426E-953C-057526FA66EA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A14878C6-8BDC-426E-953C-057526FA66EA}.Debug|Win32.Build.0 = Debug|Win32
+		{A14878C6-8BDC-426E-953C-057526FA66EA}.Release|Win32.ActiveCfg = Release|Win32
+		{A14878C6-8BDC-426E-953C-057526FA66EA}.Release|Win32.Build.0 = Release|Win32
+		{DF5EACE5-839F-4841-9F02-EC4CEF361ADE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DF5EACE5-839F-4841-9F02-EC4CEF361ADE}.Debug|Win32.Build.0 = Debug|Win32
+		{DF5EACE5-839F-4841-9F02-EC4CEF361ADE}.Release|Win32.ActiveCfg = Release|Win32
+		{DF5EACE5-839F-4841-9F02-EC4CEF361ADE}.Release|Win32.Build.0 = Release|Win32
+		{4966A304-FF35-4C29-B8FE-6C42219784FA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4966A304-FF35-4C29-B8FE-6C42219784FA}.Release|Win32.ActiveCfg = Release|Win32
+		{D5CC5D2E-5D9F-402E-9CC9-F4EBF029082E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D5CC5D2E-5D9F-402E-9CC9-F4EBF029082E}.Debug|Win32.Build.0 = Debug|Win32
+		{D5CC5D2E-5D9F-402E-9CC9-F4EBF029082E}.Release|Win32.ActiveCfg = Release|Win32
+		{D5CC5D2E-5D9F-402E-9CC9-F4EBF029082E}.Release|Win32.Build.0 = Release|Win32
+		{71A53FA0-FA65-4F9B-8A3D-6FF50FCCE095}.Debug|Win32.ActiveCfg = Debug|Win32
+		{71A53FA0-FA65-4F9B-8A3D-6FF50FCCE095}.Debug|Win32.Build.0 = Debug|Win32
+		{71A53FA0-FA65-4F9B-8A3D-6FF50FCCE095}.Release|Win32.ActiveCfg = Release|Win32
+		{71A53FA0-FA65-4F9B-8A3D-6FF50FCCE095}.Release|Win32.Build.0 = Release|Win32
+		{4899E5BF-8870-4DAE-8071-EC4D8D2612A2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4899E5BF-8870-4DAE-8071-EC4D8D2612A2}.Debug|Win32.Build.0 = Debug|Win32
+		{4899E5BF-8870-4DAE-8071-EC4D8D2612A2}.Release|Win32.ActiveCfg = Release|Win32
+		{4899E5BF-8870-4DAE-8071-EC4D8D2612A2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

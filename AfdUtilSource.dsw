@@ -1,0 +1,382 @@
+Microsoft Developer Studio Workspace File, Format Version 6.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "AfdAdminMsg"=.\AfdAdminMsg\AfdAdminMsg.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/ING/AfdUtilSource/AfdAdminMsg", ZEBAAAAA
+    .\afdadminmsg
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "AfdAdminUtil"=.\AfdAdminUtil\AfdAdminUtil.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/ING/AfdUtilSource/AfdAdminUtil", HCBAAAAA
+    .\afdadminutil
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "AfdCommHoldUtil"=.\AfdCommHoldUtil\AfdCommHoldUtil.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/ING/AfdUtilSource/AfdCommHoldUtil", KDBAAAAA
+    .\afdcommholdutil
+    end source code control
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name AfdConfig
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name AfdQmClient
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "AfdCommMonitor"=.\AfdCommMonitor\AfdCommMonitor.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/ING/AfdUtilSource/AfdCommMonitor", VFBAAAAA
+    .\afdcommmonitor
+    end source code control
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name AfdConfig
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name AfdQmClient
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "AfdConfig"=.\AfdConfig\AfdConfig.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/ING/AfdUtilSource/AfdConfig", EEBAAAAA
+    .\afdconfig
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "AfdErr"=.\AfdErr\AfdErr.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/ING/AfdUtilSource/AfdErr", BWDAAAAA
+    .\afderr
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "AfdMisc"=.\AfdMisc\AfdMisc.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/ING/AfdUtilSource/AfdMisc", BDBAAAAA
+    .\afdmisc
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "AfdPcCommCmds"=.\AfdPcCommCmds\AfdPcCommCmds.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/ING/AfdUtilSource/AfdPcCommCmds", UCBAAAAA
+    .\afdpccommcmds
+    end source code control
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name AfdConfig
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name AfdMisc
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name AfdQmClient
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "AfdQMMsg"=.\AfdQMMsg\AfdQMMsg.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/ING/AfdUtilSource/AfdQMMsg", SCBAAAAA
+    .\afdqmmsg
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "AfdQmClient"=.\AfdQmClient\AfdQmClient.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/ING/AfdUtilSource/AfdQmClient", MEBAAAAA
+    .\afdqmclient
+    end source code control
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name AfdMisc
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "AfdQueueManager"=.\AfdQueueManager\AfdQueueManager.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/ING/AfdUtilSource/AfdQueueManager", RDBAAAAA
+    .\afdqueuemanager
+    end source code control
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name AfdQMMsg
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name AfdConfig
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name AfdMisc
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name AfdScmInterface
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name AfdErr
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "AfdRegConfig"=.\AfdRegConfig\AfdRegConfig.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/ING/AfdUtilSource/AfdRegConfig", PFBAAAAA
+    .\afdregconfig
+    end source code control
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name AfdMisc
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name AfdConfig
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "AfdScmInterface"=.\AfdScmInterface\AfdScmInterface.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/ING/AfdUtilSource/AfdScmInterface", CFBAAAAA
+    .\afdscminterface
+    end source code control
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name AfdErr
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "AfdUtilSource"=.\AfdUtilSource\AfdUtilSource.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/ING/AfdUtilSource/AfdUtilSource", JKBAAAAA
+    .\afdutilsource
+    end source code control
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name AfdPcCommCmds
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name AfdCommHoldUtil
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name AfdMisc
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name AfdConfig
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name AfdScmInterface
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name AfdQueueManager
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name AfdQmClient
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name AfdRegConfig
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name Tracelib
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name TestQM
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name AfdAdminUtil
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name AfdCommMonitor
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name AfdErr
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "TestQM"=.\TestQM\TestQM.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/TestQM", ZKAAAAAA
+    .\testqm
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "Tracelib"=.\Tracelib\Tracelib.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "ftrans"=.\FTrans\ftrans.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/ING/AfdUtilSource/FTrans", GWSBAAAA
+    .\ftrans
+    end source code control
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name AfdConfig
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name AfdQmClient
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+    begin source code control
+    "$/ING/AfdUtilSource", FCBAAAAA
+    .
+    end source code control
+}}}
+
+Package=<3>
+{{{
+}}}
+
+###############################################################################
+

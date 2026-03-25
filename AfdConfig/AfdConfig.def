@@ -1,0 +1,22 @@
+;Copyright Momentum Systems, NJ. 1998.
+LIBRARY   AfdConfig
+CODE	  EXECUTE READ SHARED
+DATA	  SHARED
+HEAPSIZE  1024
+VERSION	  0.1
+EXPORTS
+; public functions:
+
+	VbGetAfdRoot
+	VbGetHalbRoot
+	VbGetAfdConfigFile
+	VbInitConfigFile
+	VbCloseConfigFile
+	VbGetTokenValue
+	VbGetAfdConfigParam
+	VbRunningAsAdministrator
+	VbGetSqlLoginPasswd
+	VbCloseTransactionStruct
+	VbInitTransactionStruct
+	VbInsertTransactionRecord
+	VbUpdateTransactionRecord

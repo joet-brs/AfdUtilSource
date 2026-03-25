@@ -1,0 +1,16 @@
+;Copyright Momentum Systems, NJ. 1998.
+LIBRARY   AfdCommMonitor
+CODE	  EXECUTE READ SHARED
+DATA	  SHARED
+HEAPSIZE  1024
+VERSION	  0.1
+EXPORTS
+; public functions:
+
+VbModifyCommRec
+VbGetCommRec
+VbGetCommRTStatus
+
+
+
+

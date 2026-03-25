@@ -1,0 +1,17 @@
+LIBRARY   AfdAdminUtil
+CODE	  EXECUTE READ SHARED
+DATA	  SHARED
+HEAPSIZE  1024
+VERSION	  0.1
+EXPORTS
+; public functions:
+
+	ConvertToASCII
+	ConvertToEBCDIC
+	ConvertStrToHex
+	VbOpenFile
+
+
+
+
+
